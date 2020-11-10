@@ -1,0 +1,12 @@
+.Textarea{
+    border: 2px solid #002438;
+    border-radius: 10px;
+}
+.input{
+    width: 300px;
+    height: 300px;
+}
+.output{
+    width: 670px;
+    height: 300px;
+}

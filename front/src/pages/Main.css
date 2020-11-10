@@ -1,0 +1,27 @@
+.Main{
+    width: 700px;
+    margin: 0 auto;
+}
+.inputMain{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.inputLeft{
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 100px;
+    margin: auto;
+}
+.textareaExport{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}
+.btnExport{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px 0;
+}
